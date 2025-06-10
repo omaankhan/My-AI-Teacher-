@@ -1,0 +1,14 @@
+{
+  "name": "ai-teacher-project",
+  "version": "1.0.0",
+  "description": "AI Teacher project with Gemini API backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@google/generative-ai": "^0.14.0",
+    "cors": "^2.8.5"
+  }
+}
